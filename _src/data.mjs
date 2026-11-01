@@ -4,7 +4,7 @@
 // I "bug" sono voluti: sono il materiale delle lezioni (vedi lessons.mjs).
 
 export const BASE = '/inspect-lab/shop';
-export const ORIGIN = 'https://leonardonovelli.design';
+export const ORIGIN = 'https://www.maisonvelluto.example'; // dominio inventato del brand finto
 
 export const SIZES = ['35', '36', '37', '38', '39', '40', '41'];
 

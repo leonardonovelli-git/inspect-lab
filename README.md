@@ -3,7 +3,7 @@
 Palestra pratica per imparare i DevTools di Chrome su un e-commerce finto, **Maison Velluto**,
 costruito come un'architettura reale: Akeneo → integrazione → Algolia (PLP) e SAP Commerce Cloud (PDP) → Adobe Analytics.
 
-Online su **https://leonardonovelli.design/inspect-lab/**. Usalo con Chrome o Edge da computer.
+Pubblicato con GitHub Pages da questa repo. Usalo con Chrome o Edge da computer.
 
 ## Struttura
 - `index.html`: pagina d'ingresso

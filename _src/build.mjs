@@ -176,7 +176,7 @@ function page({ title, desc, head = '', body, scripts, bodyClass }) {
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(desc)}">
 <meta name="robots" content="noindex, nofollow">
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/inspect-lab/favicon.svg" type="image/svg+xml">
 ${head}
 ${FONTS}
 <link rel="stylesheet" href="${BASE}/assets/shop.css">
